@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "695620509389",
+    "firebase_url": "https://letz-blog.firebaseio.com",
+    "project_id": "letz-blog",
+    "storage_bucket": "letz-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695620509389:android:ede4a993ca131424",
+        "android_client_info": {
+          "package_name": "com.artlib.letzblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695620509389-nfguuuostvn0driu10mplh45u1bthlq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artlib.letzblog",
+            "certificate_hash": "38efd8dd2cca06e725997f8ab5c81a1f45fde6c9"
+          }
+        },
+        {
+          "client_id": "695620509389-anaaqo98n6119pg6i74h8642uo0odf8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9P12pmGidhieILVUIv9zDqcxAIFtGrYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695620509389-anaaqo98n6119pg6i74h8642uo0odf8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
